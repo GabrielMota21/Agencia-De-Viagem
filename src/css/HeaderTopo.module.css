@@ -1,0 +1,17 @@
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+}
+.viagens{
+    width: 120px;
+}
+input{
+    border: 2px solid black;
+    padding:3px ;
+    border-radius: 7px;
+}
+.lupa{
+    width: 30px;
+}
